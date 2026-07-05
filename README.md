@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![banner](assets/banner.png)
+![banner](banner.png)
 
 # Hi, I'm a Student 👋
 
