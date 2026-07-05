@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![banner](Hi,I'mSteffi.png)
+![banner](Hi, I'm Steffi.png)
 
 # Hi, I'm a Student 👋
 
