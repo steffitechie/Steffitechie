@@ -26,6 +26,6 @@
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=steffitechie&theme=great-gatsby&background=121212&border=121212&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=F3D4E4&sideLabels=F3D4E4&dates=F3D4E4" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=steffitechie&theme=great-gatsby&background=2A051C&border=2A051C&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=F3D4E4&sideLabels=F3D4E4&dates=F3D4E4" />
 
 </div>
