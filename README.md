@@ -17,27 +17,15 @@
 
 <!-- ─── ABOUT ME ───────────────────────────────────────────────── -->
 
+<p align="center">
+  <img src="about-me.png" alt="About Me" width="900">
+</p>
+
+---
+<!-- ─── GITHUB STATS ROW ──────────────────────────────────────── -->
+
 <div align="center">
 
-<div style="background-color: #2a051c; padding: 20px; border-radius: 12px; width: 80%; color: #f3d4e4;">
-
-### 〔 About Me 〕
-
-<table style="width:100%; color:#f3d4e4;">
-  <tr>
-    <td><b>Role</b></td>
-    <td>Student</td>
-  </tr>
-  <tr>
-    <td><b>Location</b></td>
-    <td>Sweden, Stockholm</td>
-  </tr>
-  <tr>
-    <td><b>Focus</b></td>
-    <td>Java & LeetCode problem solving</td>
-  </tr>
-</table>
-
-</div>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=steffitechie&theme=great-gatsby&background=121212&border=121212&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=F3D4E4&sideLabels=F3D4E4&dates=F3D4E4" />
 
 </div>
