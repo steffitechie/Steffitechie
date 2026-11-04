@@ -18,7 +18,7 @@
 <!-- ─── ABOUT ME ───────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="about-me.png" alt="About Me" width="700">
+  <img src="about_me_corrected.png" alt="About Me" width="700">
 </p>
 
 ---
