@@ -18,7 +18,7 @@
 <!-- ─── ABOUT ME ───────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="about_me_spelling_fixed.png" alt="About Me" width="700">
+  <img src="About_me.png" alt="About Me" width="700">
 </p>
 
 ---
